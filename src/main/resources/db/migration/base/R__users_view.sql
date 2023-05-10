@@ -1,0 +1,1 @@
+CREATE OR REPLACE VIEW users_view AS SELECT * FROM Users WHERE name LIKE '%k%';
